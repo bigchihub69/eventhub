@@ -29,3 +29,10 @@ Thumbs.db
 # Playwright test artifacts
 playwright-report/
 test-results/
+
+# Claude local files
+.claude/settings.local.json
+.claude/worktrees/
+
+# Playwright MCP local artifacts
+.playwright-mcp/
